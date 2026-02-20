@@ -172,3 +172,13 @@ h1{font-size:44px;line-height:1.05;margin:14px 0 10px}
   .grid{grid-template-columns:1fr}
   .grid--3{grid-template-columns:1fr}
 }
+
+16px;
+  margin-top:20px;
+}
+
+.gallery img{
+  width:100%;
+  border-radius:16px;
+  object-fit:cover;
+}
